@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="country_name">" Italia"</string>
+    <string name="app_name">" Paesi"</string>
+    <string name="countryMeal">Pizza</string>
+    <string name="flag_description">Bandiera dell\'Italia</string>
+    <string name="meal_description">Foto di una pizza</string>
+</resources>

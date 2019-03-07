@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Países</string>
+    <string name="country_name">Brasil</string>
+    <string name="countryMeal">Feijoada</string>
+    <string name="flag_description">Bandeira do Brasil</string>
+    <string name="meal_description">Imagem de uma feijoada</string>
+</resources>

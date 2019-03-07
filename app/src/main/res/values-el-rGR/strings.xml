@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Χώρες</string>
+    <string name="country_name">Ελλάδα</string>
+    <string name="countryMeal">ΣΟΥΒΛΑΚΙ</string>
+    <string name="flag_description">Σημαία της Ελλάδας</string>
+    <string name="meal_description">Εικόνα ενός SOUVLAKI</string>
+</resources>

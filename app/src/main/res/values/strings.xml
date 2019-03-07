@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Países</string>
+    <string name="country_name">Country</string>
+    <string name="countryMeal">Meal</string>
+    <string name="flag_description">descrição</string>
+    <string name="meal_description">descricao</string>
+</resources>
